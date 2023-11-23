@@ -1,0 +1,458 @@
+[
+  {
+    "emoji": "🤖",
+    "title": "Robot",
+    "year": "2010",
+    "facts": [
+      "Robot (Enthiran) was one of the most expensive Indian films during its release, featuring advanced special effects for its time.",
+      "The film marked the first collaboration between superstar Rajinikanth and director Shankar.",
+      "It was released in multiple languages and became a significant success across India."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/movies/largethumb/2010/robot/robot_poster_2.jpg",
+    "rating": "7.1"
+  },
+  {
+    "emoji": "🪁🪁...",
+    "title": "Kites",
+    "year": "2010",
+    "facts": [
+      "Kites was notable for its crossover appeal, featuring Hrithik Roshan and Mexican actress Barbara Mori in the lead roles.",
+      "The movie was shot in both English and Hindi languages to cater to a wider international audience.",
+      "Director Anurag Basu crafted the film with a unique narrative style, drawing attention for its visual treatment."
+    ],
+    "image_link": "https://cdn.cinematerial.com/p/136x/nlids7x6/kites-indian-movie-poster-sm.jpg?v=1456812622",
+    "rating": "6.0"
+  },
+  {
+    "emoji": "❤6️⃣",
+    "title": "Delhi 6",
+    "year": "2009",
+    "facts": [
+      "The movie's title 'Delhi 6' refers to the postal index code of the area in Old Delhi.",
+      "Director Rakeysh Omprakash Mehra drew inspiration from his own experiences growing up in the Chandni Chowk area of Delhi.",
+      "A.R. Rahman's music for the film received critical acclaim and added to its appeal."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/movies/largethumb/250x350/2009/delhi-6/delhi-6_poster_5.jpg",
+    "rating": "6.2"
+  },
+  {
+    "emoji": "🚽💑",
+    "title": "Toilet Ek Prem Katha",
+    "year": "2017",
+    "facts": [
+      "The film highlighted the importance of sanitation and aimed to raise awareness about the issue of open defecation in India.",
+      "It was inspired by the true story of a woman who left her husband due to the lack of a toilet in their home.",
+      "Akshay Kumar, known for his socially relevant roles, played a pivotal part in this film."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/16232_toilet-ek-prem-katha_cover.jpg",
+    "rating": "7.2"
+  },
+  {
+    "emoji": "🤼👧👧",
+    "title": "Dangal",
+    "year": "2016",
+    "facts": [
+      "Dangal is based on the real-life story of wrestler Mahavir Singh Phogat and his daughters Geeta Phogat and Babita Kumari.",
+      "Aamir Khan, who portrayed the role of Mahavir Singh Phogat, underwent a dramatic physical transformation for the film.",
+      "The movie received widespread acclaim for its portrayal of female empowerment through sports."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/15971_dangal_cover.jpg",
+    "rating": "8.3"
+  },
+  {
+    "emoji": "1️⃣↔🐯",
+    "title": "Ek Tha Tiger",
+    "year": "2012",
+    "facts": [
+      "Ek Tha Tiger marked the first installment in the successful spy thriller series featuring Salman Khan and Katrina Kaif.",
+      "The film was shot in multiple international locations, adding to its visual appeal and scale.",
+      "It became one of the highest-grossing Bollywood films of 2012."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/14837_ek-tha-tiger_cover.jpg",
+    "rating": "5.6"
+  },
+  {
+    "emoji": "👅 🏑 🇮🇳",
+    "title": "Chak De India",
+    "year": "2007",
+    "facts": [
+      "Chak De India centered around women's field hockey and emphasized the importance of unity and sportsmanship.",
+      "Shah Rukh Khan's performance as the coach of the Indian women's hockey team received widespread acclaim.",
+      "The movie inspired and brought attention to women's sports in India."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/movies/largethumb/250x350/2007/chak-de-india/chak-de-india-poster-2.jpg",
+    "rating": "8.1"
+  },
+  {
+    "emoji": "🚀👳‍♂️",
+    "title": "Rocket Singh",
+    "year": "2009",
+    "facts": [
+      "Rocket Singh: Salesman of the year portrayed a different aspect of business life, focusing on ethical practices in sales.",
+      "Ranbir Kapoor's performance as a struggling salesman earned appreciation from critics.",
+      "The film was praised for its realistic portrayal of the corporate world."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/13668_rocket-singh-salesman-of-the-year_cover.jpg",
+    "rating": "7.5"
+  },
+  {
+    "emoji": "🎖👩‍✈️🚁",
+    "title": "Gunjan Saxena: The Kargil Girl",
+    "year": "2020",
+    "facts": [
+      "The movie is based on the life of Gunjan Saxena, one of India's first female combat aviators.",
+      "Janhvi Kapoor portrayed the titular role of Gunjan Saxena and received praise for her performance.",
+      "It shed light on gender bias and challenges faced by women in the Indian Air Force."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/16632_gunjan-saxena-the-kargil-girl_cover.jpg",
+    "rating": "5.5"
+  },
+  {
+    "emoji": "🧪💡",
+    "title": "Tubelight",
+    "year": "2017",
+    "facts": [
+      "Tubelight was directed by Kabir Khan and featured Salman Khan in a heartwarming role.",
+      "The film explored the themes of love, acceptance, and the impact of war on families.",
+      "It marked the Bollywood debut of Chinese actress Zhu Zhu."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/16205_tubelight_cover.jpg",
+    "rating": "3.9"
+  },
+  {
+    "emoji": "💑➡💔➡🍷➕🥴",
+    "title": "Devdas",
+    "year": "2002",
+    "facts": [
+      "Devdas is based on the novel of the same name by Sarat Chandra Chattopadhyay and has been adapted multiple times in Indian cinema.",
+      "The film starring Shah Rukh Khan, Aishwarya Rai, and Madhuri Dixit was noted for its grand sets and visual opulence.",
+      "It received critical acclaim for its performances and tragic storyline."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/movies/largethumb/450x467/2002/devdas/poster.jpg",
+    "rating": "7.5"
+  },
+  {
+    "emoji": "⛰⛏🧔",
+    "title": "Manjhi The Mountain Man",
+    "year": "2015",
+    "facts": [
+      "Manjhi: The Mountain Man is a biographical film based on the life of Dashrath Manjhi, who carved a path through a mountain.",
+      "Nawazuddin Siddiqui portrayed the lead role of Dashrath Manjhi and received accolades for his performance.",
+      "The movie highlighted the determination and struggle of an individual against all odds."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/15140_manjhi-the-mountain-man_cover.jpg",
+    "rating": "8.0"
+  },
+  {
+    "emoji": "👳‍♂️↔🤴",
+    "title": "Singh Is Kinng",
+    "year": "2008",
+    "facts": [
+      "Singh Is Kinng was a comedy-drama featuring Akshay Kumar in the lead role as Happy Singh.",
+      "The film's soundtrack became highly popular, especially the song 'Teri Ore' sung by Rahat Fateh Ali Khan.",
+      "It was filmed in various international locations, adding to its visual appeal."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/movies/largethumb/450x467/2008/singh-is-kinng/poster.jpg",
+    "rating": "5.7"
+  },
+  {
+    "emoji": "⚔",
+    "title": "Talvar",
+    "year": "2015",
+    "facts": [
+      "Talvar is based on the controversial Noida double murder case, known as the Aarushi-Hemraj murder case.",
+      "The film presented multiple perspectives on the case, leaving the audience to draw their own conclusions.",
+      "It received acclaim for its realistic portrayal and the performances of its cast."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/15983_talvar_cover.jpg",
+    "rating": "8.1"
+  },
+  {
+    "emoji": "🧑‍🌾🏏🇮🇳🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "title": "Lagaan: Once Upon a Time in India",
+    "year": "2001",
+    "facts": [
+      "Lagaan was nominated for the Academy Award for Best Foreign Language Film, representing India.",
+      "The movie, set in the British colonial era, depicted a fictional cricket match between villagers and the British.",
+      "Aamir Khan not only starred in the film but also produced it, and it became a massive success both in India and internationally."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/movies/largethumb/250x350/2001/lagaan/poster.jpg",
+    "rating": "8.1"
+  },
+  {
+    "emoji": "🏍💨 🏍 🚓",
+    "title": "Dhoom",
+    "year": "2004",
+    "facts": [
+      "Dhoom marked the beginning of a successful action film franchise known for its stylish heists and thrilling sequences.",
+      "The movie popularized the 'Dhoom Machale' song and showcased high-speed bike chases.",
+      "It featured Abhishek Bachchan as a cop and John Abraham as a stylish thief."
+    ],
+    "image_link": "https://resizing.flixster.com/O-w_u2nUelThZGsXcm6yp8rM7os=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8178512_p_v8_ad.jpg",
+    "rating": "6.6"
+  },
+  {
+    "emoji": "👵🤰👶",
+    "title": "Badhaai Ho",
+    "year": "2018",
+    "facts": [
+      "Badhaai Ho dealt with a unique storyline where an older couple unexpectedly finds out they are expecting a child.",
+      "The film challenged societal norms and received praise for its humor and sensitive portrayal of the situation.",
+      "Ayushmann Khurrana played a significant role in this unconventional yet successful film."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/16414_badhaai-ho_cover.jpg",
+    "rating": "7.9"
+  },
+  {
+    "emoji": "🧠➡🍲",
+    "title": "Bheja Fry",
+    "year": "2007",
+    "facts": [
+      "Bheja Fry is a comedy film that was a remake of a French film 'Le Dîner de Cons' (The Dinner Game).",
+      "The movie received positive reviews for its humor and Rajat Kapoor's performance.",
+      "Despite being made on a low budget, it garnered appreciation for its witty storytelling."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/movies/largethumb/450x467/2007/bheja-fry/poster.jpg",
+    "rating": "7.6"
+  },
+  {
+    "emoji": "✋🚫",
+    "title": "No Entry",
+    "year": "2005",
+    "facts": [
+      "No Entry is a comedy film known for its entertaining storyline about extramarital affairs and mistaken identities.",
+      "The movie boasted a star-studded cast including Salman Khan, Anil Kapoor, Fardeen Khan, and others.",
+      "It became a commercial success and is remembered for its catchy music."
+    ],
+    "image_link": "https://resizing.flixster.com/5MqYLW2kCKfYwFY9NNQFf88T3Eg=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p90105_p_v8_aa.jpg",
+    "rating": "6.6"
+  },
+  {
+    "emoji": "👀🏦💰",
+    "title": "Aankhen",
+    "year": "2002",
+    "facts": [
+      "Aankhen is a heist thriller that featured Amitabh Bachchan, Akshay Kumar, Arjun Rampal, and Paresh Rawal in prominent roles.",
+      "The film centered around a plan to rob a bank and showcased the blind characters executing the heist.",
+      "It was praised for its intriguing plot and the performances of the ensemble cast."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/movies/largethumb/450x467/2002/aankhen/poster.jpg",
+    "rating": "6.8"
+  },
+  {
+    "emoji": "👨‍🦱➡👨‍🦲",
+    "title": "Bala",
+    "year": "2019",
+    "facts": [
+      "Bala addressed the societal stigma around premature balding and self-acceptance.",
+      "Ayushmann Khurrana played the role of a young man struggling with premature baldness.",
+      "The film received appreciation for its humor and for shedding light on a sensitive topic."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/16539_bala_cover.jpg",
+    "rating": "7.3"
+  },
+  {
+    "emoji": "🥊👩🏅",
+    "title": "Mary Kom",
+    "year": "2014",
+    "facts": [
+      "Mary Kom is a biographical sports drama based on the life of boxer MC Mary Kom.",
+      "Priyanka Chopra portrayed the titular role and underwent intense physical training to prepare for the character.",
+      "The movie highlighted Mary Kom's journey from a small village to becoming a world champion."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/15696_mary-kom_cover.jpg",
+    "rating": "6.8"
+  },
+  {
+    "emoji": "1️⃣4️⃣0️⃣🚆",
+    "title": "Ek Chalis Ki Last Local",
+    "year": "2007",
+    "facts": [
+      "Ek Chalis Ki Last Local is a dark comedy thriller that takes place over one night in Mumbai.",
+      "The movie follows the misadventures of two strangers who miss their last train and encounter unexpected situations.",
+      "It gained a cult following for its unique storyline and unconventional narrative."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/movies/largethumb/250x350/2007/ek-chalis-ki-last-local/poster.jpg",
+    "rating": "7.3"
+  },
+  {
+    "emoji": "👩‍🦼",
+    "title": "Guzaarish",
+    "year": "2010",
+    "facts": [
+      "Guzaarish is a drama that delves into the story of a paralyzed magician seeking the right to end his life.",
+      "The film marked the collaboration of director Sanjay Leela Bhansali and actors Hrithik Roshan and Aishwarya Rai.",
+      "It received critical acclaim for its performances and emotional depth."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/13737_guzaarish_cover.jpg",
+    "rating": "7.4"
+  },
+  {
+    "emoji": "🎹 😎",
+    "title": "Andhadhun",
+    "year": "2018",
+    "facts": [
+      "Andhadhun is a black comedy thriller that revolves around a blind pianist entangled in a web of mysteries.",
+      "The film received widespread acclaim for its intriguing plot and unexpected twists.",
+      "Ayushmann Khurrana's portrayal and the movie's narrative were highly praised."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/16351_andhadhun_cover.jpg",
+    "rating": "8.2"
+  },
+  {
+    "emoji": "🛸👽🦸‍♂️",
+    "title": "Koi… Mil Gaya",
+    "year": "2003",
+    "facts": [
+      "Koi... Mil Gaya is a sci-fi film that narrates the story of a mentally challenged young man who befriends an extraterrestrial being.",
+      "Hrithik Roshan played the lead role and received acclaim for his performance as a character with special needs.",
+      "The film was a commercial success and spawned sequels."
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/e/ef/Koi..._Mil_Gaya_poster.jpg",
+    "rating": "7.1"
+  },
+  {
+    "emoji": "🚀👨👧",
+    "title": "Mission Mangal",
+    "year": "2019",
+    "facts": [
+      "Mission Mangal is based on the true story of India's Mars Orbiter Mission (Mangalyaan) launched by ISRO.",
+      "The film celebrated the contribution of female scientists in the mission and their role in making it successful.",
+      "It received praise for its portrayal of scientific achievements in an accessible manner."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/16534_mission-mangal_cover.jpg",
+    "rating": "6.5"
+  },
+  {
+    "emoji": "🤫👌⭐",
+    "title": "Secret Superstar",
+    "year": "2017",
+    "facts": [
+      "Secret Superstar revolves around a young girl who aspires to be a singer and becomes an internet sensation anonymously.",
+      "Aamir Khan played an important supporting role in the film and also produced it.",
+      "The movie received acclaim for its heartwarming story and performances."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/movies/largethumb/250x350/2017/secret-superstar/secret-superstar-poster-3.jpg",
+    "rating": "7.8"
+  },
+  {
+    "emoji": "🚀👴🏻",
+    "title": "Rocketry: The Nambi Effect",
+    "year": "2022",
+    "facts": [
+      "Rocketry: The Nambi Effect is a biographical film based on the life of Indian aerospace engineer Nambi Narayanan.",
+      "R Madhavan not only acted in the lead role but also directed and produced the film.",
+      "The movie sheds light on Nambi Narayanan's wrongful espionage case and his contributions to India's space program."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/movies/largethumb/250x350/2021/rocketry-the-nambi-effect/poster.jpg",
+    "rating": "8.7"
+  },
+  {
+    "emoji": "👌 3️⃣ 0️⃣",
+    "title": "Super 30",
+    "year": "2019",
+    "facts": [
+      "Super 30 is inspired by the life of mathematician Anand Kumar, who runs a program to coach economically disadvantaged students for the IIT entrance exams.",
+      "Hrithik Roshan portrayed Anand Kumar and underwent a significant transformation for the role.",
+      "The film highlighted the importance of education and equal opportunities."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/16394_super-30_cover.jpg",
+    "rating": "7.9"
+  },
+  {
+    "emoji": "❤🟰🥴",
+    "title": "Dil To Pagal Hai",
+    "year": "1997",
+    "facts": [
+      "Dil To Pagal Hai is a romantic musical film known for its catchy music and dance sequences.",
+      "The film starred Shah Rukh Khan, Madhuri Dixit, and Karisma Kapoor in lead roles.",
+      "It received accolades for its vibrant choreography and became a commercial success."
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/9/9d/Dil_To_Pagal_Hai.jpg",
+    "rating": "7.0"
+  },
+  {
+    "emoji": "❤ -e- 🐱",
+    "title": "Delhi Belly",
+    "year": "2011",
+    "facts": [
+      "Delhi Belly is a black comedy that revolves around a group of friends caught in a bizarre sequence of events after one of them gets involved with smugglers.",
+      "The film was noted for its edgy humor and unconventional storyline.",
+      "It was produced by Aamir Khan and gained attention for its bold content."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/13418_delhi-belly_cover.jpg",
+    "rating": "7.5"
+  },
+  {
+    "emoji": "1️⃣➕2️⃣➡4️⃣",
+    "title": "One 2 Ka 4",
+    "year": "2001",
+    "facts": [
+      "One 2 Ka 4 is an action-comedy film featuring Shah Rukh Khan as a cop paired with Juhi Chawla.",
+      "The movie's soundtrack composed by A.R. Rahman was well-received, especially the title track.",
+      "It combined elements of comedy, drama, and action, showcasing Shah Rukh Khan's versatility."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/movies/largethumb/250x350/2001/one-2-ka-4/poster.jpg",
+    "rating": "5.5"
+  },
+  {
+    "emoji": "📃1️⃣5️⃣",
+    "title": "Article 15",
+    "year": "2019",
+    "facts": [
+      "Article 15 addressed social issues and caste-based discrimination prevalent in Indian society.",
+      "Ayushmann Khurrana portrayed the role of a police officer investigating a rural murder case.",
+      "The movie received acclaim for its bold approach and thought-provoking narrative."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/16566_article-15_cover.jpg",
+    "rating": "8.1"
+  },
+  {
+    "emoji": "🚕9️⃣2️⃣1️⃣1️⃣",
+    "title": "Taxi No. 9211",
+    "year": "2006",
+    "facts": [
+      "Taxi No. 9211 is a dramedy focusing on the clash between two individuals with contrasting personalities inside a taxi.",
+      "The film starred Nana Patekar and John Abraham in pivotal roles.",
+      "It explored themes of human nature and life's complexities within a confined space."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/movies/largethumb/450x467/2006/taxi-no-9211/poster.jpg",
+    "rating": "7.3"
+  },
+  {
+    "emoji": "👦🎤🤟⭐",
+    "title": "Rockstar",
+    "year": "2011",
+    "facts": [
+      "Rockstar is a musical drama that follows the journey of a musician and his tumultuous love life.",
+      "Ranbir Kapoor played the lead role and received praise for his portrayal of a passionate yet troubled musician.",
+      "The film's soundtrack composed by A.R. Rahman was a massive hit and added to its popularity."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/359_rockstar_cover.jpg",
+    "rating": "7.7"
+  },
+  {
+    "emoji": "👮‍♂️🦁",
+    "title": "Singham",
+    "year": "2011",
+    "facts": [
+      "Singham is an action film known for its high-octane sequences and Ajay Devgn's portrayal of a tough cop.",
+      "The movie was a remake of a Tamil film and became a successful franchise.",
+      "It showcased the fight against corruption and earned acclaim for its action-packed narrative."
+    ],
+    "image_link": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/14782_singham_cover.jpg",
+    "rating": "6.8"
+  },
+  {
+    "emoji": "🏆 🚴‍♂️ 🚴‍♂️ 🏅",
+    "title": "Jo Jeeta Wohi Sikandar",
+    "year": "1992",
+    "facts": [
+      "Jo Jeeta Wohi Sikandar is a coming-of-age sports drama revolving around a cycling competition.",
+      "The film starred Aamir Khan in a leading role and featured memorable songs.",
+      "It received praise for its realistic portrayal of teenage aspirations and rivalries."
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/a/ae/Jo_Jeeta_Wohi_Sikandar_poster.jpg",
+    "rating": "8.1"
+  }
+]

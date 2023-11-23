@@ -1,0 +1,241 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 10% 80% 10%;
+    height: 100vh; /* Adjust the height as needed */
+}
+
+
+#left-column, #right-column {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    font-size: 5rem;
+    font-weight: 900;
+    transform: scaleY(1.5);
+    justify-content: center;
+    opacity: 0;
+    color:#d0d0d0;
+}
+
+#left-column {
+    translate: 1rem 0;
+}
+
+#right-column {
+    translate: -1rem 0;
+}
+
+.working#left-column:hover{
+    animation: fadeInLeft 0.5s forwards;
+    cursor: pointer;
+}
+
+.working#right-column:hover{
+    animation: fadeInRight 0.5s forwards;
+    cursor: pointer;
+}
+
+
+@keyframes fadeInRight {
+    from {
+        opacity: 0;
+        background: linear-gradient(90deg, #3f87a600, #3f87a600);
+    }
+    to {
+        opacity: 1;
+        translate: 0 0;
+        background: linear-gradient(90deg, #3f87a600, #ffffff);
+    }
+}
+
+
+
+@keyframes fadeInLeft {
+    from {
+        opacity: 0;
+        background: linear-gradient(90deg, #3f87a600, #3f87a600);
+    }
+    to {
+        opacity: 1;
+        translate: 0 0;
+        background: linear-gradient(90deg, #fff, #3f87a600);
+    }
+}
+
+#reveal {
+    background-color: white;
+    height: 18.8vh;
+    margin-top: 2vh;
+    width: 100%;
+    bottom: 0;
+    box-shadow: 0px 0px 10px #d0d0d0;
+    border-radius: 2rem;
+}
+
+#reveal > #year {
+    display: inline-block;
+    width: 20%;
+    height: 40%;
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 3rem;
+    border-right: 1px solid black;
+}
+
+
+#reveal > #button {
+    display: inline-block;
+    width: 64%;
+    height: 40%;
+    margin: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 1rem;
+    border-radius: 2rem;
+    font-size: 3rem;
+    background-color: #42a5f5;
+    color: whitesmoke;
+}
+
+#reveal > #button:hover{
+    cursor: pointer;
+    box-shadow: 0px 0px 10px #d0d0d0;
+}
+
+#emoji {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    font-size: 9rem;
+    background-color: white;
+    height: 75.2vh;
+    margin-top: 2vh;
+    border-radius: 2rem;
+    box-shadow: 0px 0px 10px #d0d0d0;
+}
+
+
+#main-column.reveal  #emoji {
+    animation: fadeOut 0.25s forwards, growSmall 0.5s forwards;
+}
+
+@keyframes fadeOut {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+@keyframes fadeInBottom {
+    from {
+        translate: 0 35rem;
+        opacity: 0;
+    }
+    to {
+        translate: 0 0;
+        opacity: 1;
+    }
+}
+
+@keyframes growSmall {
+    to {
+        height: 0;
+    }
+}
+
+#main-column.reveal  #button {
+    animation: fadeIn 0.25s forwards;
+}
+
+
+#main-column.reveal  #reveal {
+    animation: growLarge 0.5s forwards;
+}
+
+@keyframes growLarge {
+    to {
+        height: 90vh;
+    }
+}
+
+#main-column.reveal #year {
+    border: 0;
+}
+
+#title, #facts, #img, #rating {
+    display: none;
+}
+
+#main-column.reveal #year, #main-column.reveal #button {
+    display: none
+}
+
+#main-column.reveal #title,
+#main-column.reveal #img,
+#main-column.reveal #facts,
+#main-column.reveal #rating {
+    display: block;
+}
+
+
+
+#main-column.reveal #title {
+    margin: 1rem;
+    padding: 1rem;
+    padding-top: 3rem;
+
+    font-weight: 900;
+    font-size: 3rem;
+}
+
+#img {
+    position: absolute;
+    top:5rem;
+    opacity: 1;
+    right:10rem;
+    height: 20rem;
+    animation: fadeInBottom 0.5s forwards;
+    width: 15rem;
+    border-radius: 1.5rem;
+    box-shadow: 0px 0px 10px #d0d0d0;
+
+}
+
+#main-column.reveal #rating {
+    position: absolute;
+    opacity: 0;
+    top:28rem;
+    animation: fadeInBottom 0.5s forwards;
+    font-size: 1.5rem;
+    right:10rem;
+    background-color: #f5c92d;
+    padding: 1rem;
+    font-weight: 900;
+    border-radius: 1.5rem;
+    border: 0.2rem solid black;
+}
+
+#main-column.reveal #facts li {
+    width: calc(100% - 25rem);
+    text-align: justify;
+    margin: 1rem;
+    font-size: 1.5rem;
+    padding: 1rem;
+
+}

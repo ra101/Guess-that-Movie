@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Example</title>
+    <style>
+        body{
+            overflow: hidden;
+        }
+
+        #bg {
+            position: absolute;
+            top:0;
+            left:0;
+            width: 200vw;
+            height: 200vw;
+            z-index: -1;
+            translate: -25% calc( 50vh - 100vw);
+
+            animation: bgRotate 10s linear infinite;
+            background: repeating-conic-gradient(
+                #ef5350 0deg 15deg, #ffb74d 15deg 30deg
+            );
+        }
+
+        .wrapper {
+            width: 100%;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+
+        }
+
+        .title {
+            font-size: 10rem;
+            margin-top: 1rem;
+            text-shadow: 0px 0px 1rem #ffc8c88a;
+        }
+
+        .title p {
+            display: inline-block;
+            margin:0rem;
+            margin-top: 1rem;
+            filter: grayscale(1) brightness(10);
+        }
+
+        #button {
+            font-size: 4rem;
+            color:whitesmoke;
+            font-weight: 500;
+            background-color: aquamarine;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            padding-top: 0.5rem;
+            margin: 1rem;
+            padding-bottom: 1rem;
+            border-radius: 2rem;
+            background-color: #42a5f5;
+            color: whitesmoke;
+        }
+
+        #button:hover{
+            cursor: pointer;
+            box-shadow: 0px 0px 5px #0d0d0dab;
+        }
+
+
+        @keyframes bgRotate {
+            from {
+                rotate: 0deg;
+            }
+            to {
+                rotate: 180deg;
+            }
+        }
+    </style>
+</head>
+<body>
+<div id="bg"></div>
+<div class="wrapper">
+    <div class="title">
+        🤔 🎬 <p>⁉️</p>
+    </div>
+    <div id="button">
+    〈 Let's Play 〉
+    </div>
+</div>
+
+<script>
+button = document.getElementById('button')
+button.addEventListener('click', function (){
+    window.location.href = '/game.html'
+})
+
+</script>
+
+</body>
+</html>
