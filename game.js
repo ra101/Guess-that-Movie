@@ -33,14 +33,14 @@ document.addEventListener('DOMContentLoaded', async function () {
     if (indexToLoad >= data.length - 1){
         rightColumn.removeEventListener('click', plusIndex)
         rightColumn.addEventListener('click', function (){
-            window.location.href = '/winner.html'
+            window.location.href = '/Guess-that-Movie/winner.html'
         })
     }
 
     if (indexToLoad <= 0){
         leftColumn.removeEventListener('click', minusIndex)
         leftColumn.addEventListener('click', function (){
-            window.location.href = '/index.html'
+            window.location.href = '/Guess-that-Movie/index.html'
         })
     }
 
