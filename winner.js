@@ -59,5 +59,5 @@ window.addEventListener("load", ()=>{mk_choose.play()});
 
 button = document.getElementById('button')
 button.addEventListener('click', function (){
-    window.location.href = '/index.html'
+    window.location.href = '/Guess-that-Movie/index.html'
 })
